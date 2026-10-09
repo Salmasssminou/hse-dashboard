@@ -37,5 +37,5 @@ A modern web dashboard for tracking Health, Safety & Environment indicators. Bui
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR-USERNAME/hse-dashboard.git
+git clone https://github.com/Salmasssminou/hse-dashboard.git
 cd hse-dashboard
