@@ -1,0 +1,34 @@
+# Data (never commit real data)
+data/*
+!data/.gitkeep
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/node_modules/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# Windows
+Desktop.ini
